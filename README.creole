@@ -1,4 +1,5 @@
 = Guru
 
-Designed as an easy to use and configure programming competition software package. Hosts a REST-based server with access to a MySQL or SqLite database (undecided).
+Designed as an easy to use and configure programming competition software package. 
+Hosts a REST-based HTTPS server with access to a SqLite database.
 Qt-based client for competitors, judges, and administrators.
